@@ -1,0 +1,26 @@
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.BLL.dll.config
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.BLL.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.BLL.pdb
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.MODEL.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.MODEL.pdb
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.BLL.dll.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.BLL.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.BLL.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.MODEL.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.MODEL.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\YG35426_MadameMarie.MODEL.dll.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.csprojResolveAssemblyReference.cache
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.csproj.CoreCompileInputs.cache
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie.BLL\obj\Debug\YG35426_MadameMarie.BLL.pdb

@@ -1,0 +1,85 @@
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\ApplicationInsights.config
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\csc.exe
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\vbc.exe
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.dll.config
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.pdb
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.SqlServer.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.Web.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.BLL.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.MODEL.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.BLL.pdb
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.MODEL.pdb
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.SqlServer.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.Web.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.csprojResolveAssemblyReference.cache
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.dll
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\ApplicationInsights.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\csc.exe
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\System.Collections.Immutable.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\System.Reflection.Metadata.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\vbc.exe
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\VBCSCompiler.exe
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\roslyn\VBCSCompiler.exe.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.dll.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.SqlServer.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.DependencyCollector.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.Web.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.WindowsServer.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.ApplicationInsights.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.BLL.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.MODEL.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.BLL.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.BLL.dll.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.MODEL.pdb
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\YG35426_MadameMarie.MODEL.dll.config
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\EntityFramework.SqlServer.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.DependencyCollector.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.Web.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.AI.WindowsServer.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.ApplicationInsights.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.csprojResolveAssemblyReference.cache
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.csproj.CoreCompileInputs.cache
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.dll
+D:\Furkan Yedek\YG35426\YG35426\WEB\YG35426_MadameMarie\YG35426_MadameMarie\obj\Debug\YG35426_MadameMarie.pdb
